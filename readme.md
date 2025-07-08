@@ -65,6 +65,19 @@ london-bicycle-analysis/
 
 ---
 
+## 🎥 Dashboard Preview
+
+Explore how ride trends shift with changing weather and time periods using this interactive Tableau dashboard.
+
+- 🔁 Customize the **moving average window** (e.g., 14 days)
+- 📅 Filter by **date range**
+- 📊 Switch between **weekday/weekend usage**
+- 🌡️ Understand ride patterns across **temperature vs wind speed**
+
+![Dashboard Preview](visuals/London_Viz.gif)
+
+---
+
 ## 🔍 Insights
 
 - Usage peaks observed during moderate temperatures and low wind speeds
